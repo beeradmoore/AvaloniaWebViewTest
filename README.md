@@ -1,0 +1,1 @@
+Reproduction for issue [#318](https://github.com/OutSystems/WebView/issues/318) in the OutSystems repo for WebView use with the [WebViewControl-Avalonia](https://www.nuget.org/packages/WebViewControl-Avalonia) nuget package. 
